@@ -6,10 +6,13 @@ Plataforma web de gastronomía y turismo de Santuario (Risaralda): catálogo de 
 
 | Recurso | URL |
 |---|---|
-| Aplicación desplegada (frontend) | _PEGAR_URL_VERCEL_ |
-| API desplegada (backend) | _PEGAR_URL_RENDER_/api/v1 |
-| Dashboard Looker Studio | _PEGAR_URL_DE_INSERCION_ |
+| Aplicación desplegada (frontend) |https://proyecto-rutas-y-sabores.vercel.app |
+| API desplegada (backend) | https://proyecto-rutas-y-sabores.onrender.com/api/v1/establecimientos |
+| URL base de la API | https://proyecto-rutas-y-sabores.onrender.com/api/v1|
+| Dashboard Looker Studio | https://datastudio.google.com/embed/reporting/b51abdc1-caaa-49cb-8dcb-de1d16494fcc/page/qmtAG |
 | Video demostrativo | _PEGAR_URL_VIDEO_ |
+
+> Nota: el backend está en el plan gratuito de Render; la primera petición después de un rato de inactividad puede tardar hasta un minuto. 
 
 ## Arquitectura
 
